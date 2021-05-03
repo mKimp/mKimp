@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Kim, a builder, a doer, an observer, and a team player.
 - 👀 I’m interested in software and web development. 
-- 🌱 I’m currently learning ReactJs.
-- 💞️ I am looking for an internship/entry level position to leverage my experience in building mobile-friendly web apps
-to solve interesting problems.
+- 🌱 I’m currently working on my new React app - Vegan Matter, which will help to return back all the vegan recipies based on the user available ingredients.
+- 💞️ I am looking for an internship/entry level position to leverage my experience in software engineering and web development.
 - 📫 You can contact me at phuongkim.ma@gmail.com.
 
 
