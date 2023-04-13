@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Kim, a builder, a doer, an observer, and a team player.
-- 👀 I’m interested in software and web development. 
-- 🌱 I’m currently working on my new React app - Vegan Matter, which will help to return back all the vegan recipies based on the user available ingredients.
-- 💞️ I am looking for an internship/entry level position to leverage my experience in software engineering and web development.
-- 📫 You can contact me at phuongkim.ma@gmail.com.
+👋 Hi, I’m Kim. Nice to meet you.
+I am a career changer with two years of full-stack web development experience specializing in Javascript, Typescript, React, Node.js, and PostgreSQL. I worked at two companies in full-stack and software development roles. I am naturally curious and perpetually working on improving my skills continually. Feel like saying Hello? You can contact me at phuongkim.ma@gmail.com.
 
 
 
